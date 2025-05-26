@@ -36,6 +36,7 @@ Calculadora-IMC/
 │       └── script.js
 ├── index.html
 └── README.md
+└── LICENSE MIT
 ```
 
 ## 📄 Licença
